@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  Jogador.cpp
+  Jogo.cpp
+  Lab2Project.cpp
+  Peao.cpp
+  Peca.cpp
+  Ponto.cpp
+  restrictedPiece.cpp
+  Tabuleiro.cpp
+C:\Users\diana\Desktop\Checkers-Game\Lab2Project\Tabuleiro.cpp(26,22): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\diana\Desktop\Checkers-Game\Lab2Project\Tabuleiro.cpp(28,18): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\diana\Desktop\Checkers-Game\Lab2Project\Tabuleiro.cpp(167,10): warning C4129: 'T': unrecognized character escape sequence
+  Generating Code...
+  Lab2Project.vcxproj -> C:\Users\diana\Desktop\Checkers-Game\x64\Debug\Lab2Project.exe

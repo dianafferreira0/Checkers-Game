@@ -1,0 +1,5 @@
+﻿  Tabuleiro.cpp
+C:\Users\diana\Desktop\Candidatura UMINHO\Projetos\LAB2\DamasLab2\Lab2Project\Lab2Project\Tabuleiro.cpp(26,22): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\diana\Desktop\Candidatura UMINHO\Projetos\LAB2\DamasLab2\Lab2Project\Lab2Project\Tabuleiro.cpp(28,18): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\diana\Desktop\Candidatura UMINHO\Projetos\LAB2\DamasLab2\Lab2Project\Lab2Project\Tabuleiro.cpp(167,10): warning C4129: 'T': unrecognized character escape sequence
+  Lab2Project.vcxproj -> C:\Users\diana\Desktop\Candidatura UMINHO\Projetos\LAB2\DamasLab2\Lab2Project\Debug\Lab2Project.exe
